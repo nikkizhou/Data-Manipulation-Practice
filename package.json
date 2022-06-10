@@ -1,0 +1,29 @@
+{
+  "name": "jsfs-lab-kata-csvdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js",
+    "test": "mocha .",
+    "prepare": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appliedtechnology/jsfs-lab-kata-csvDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appliedtechnology/jsfs-lab-kata-csvDB/issues"
+  },
+  "homepage": "https://github.com/appliedtechnology/jsfs-lab-kata-csvDB#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "eslint-config-salt": "^1.1.0"
+  },
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "mocha": "^9.1.3"
+  }
+}
